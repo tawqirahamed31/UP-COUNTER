@@ -60,7 +60,7 @@ Program for flipflops and verify its truth table in quartus using Verilog progra
 
 **TIMING DIAGRAM FOR IP COUNTER**
 
-<img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/a843d0ba-cfbc-4ad6-97a4-7e863e9904a0" />
+<img width="1914" height="1031" alt="Screenshot 2025-10-07 095535" src="https://github.com/user-attachments/assets/c9ee14d1-5129-4e5d-b229-72310b5e8d6b" />
 
 
 **TRUTH TABLE**
